@@ -21,7 +21,7 @@ imprimir(SOMA);
 
 Soma = 91
 
-Resposta: [questao1.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao1.py)
+Resposta: [questao1.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao2.py)
 
 Questão 2
 
@@ -33,7 +33,7 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 9 não pertence à sequência de Fibonacci.
 20 não pertence à sequência de Fibonacci.
 
-Resposta: [questao2.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao1.py)
+Resposta: [questao2.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao3.py)
 
 Questão 3
 
@@ -51,7 +51,7 @@ e) 1, 1, 2, 3, 5, 8, 13
 
 f) 2,10, 12, 16, 17, 18, 19, 20
 
-Resposta: [questao3.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao1.py)
+Resposta: [questao3.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao4.py)
 
 Questão 4
 
@@ -69,7 +69,7 @@ A lâmpada que estiver apagada e ainda estiver fria corresponde ao interruptor q
 A lâmpada que estiver apagada, mas estiver quente, corresponde ao interruptor que eu liguei e permaneceu ligado por alguns minutos (segundo interruptor).
 Assim, consigo identificar qual interruptor controla cada lâmpada com apenas duas idas até a sala das lâmpadas.
 
-Resposta: [questao4.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao1.py)
+Resposta: [questao4.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao5.py)
 
 Questão 5
 
