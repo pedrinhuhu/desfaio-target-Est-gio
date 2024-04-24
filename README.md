@@ -21,7 +21,7 @@ imprimir(SOMA);
 
 Soma = 91
 
-Resposta: questao1.py
+Resposta: [questao1.py](https://github.com/pedrinhuhu/desfaio-target-Est-gio/blob/7c1aada95fecbbe8cc78eaa148078540c04bbc0e/questao1.py)
 
 Questão 2
 
