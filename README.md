@@ -21,6 +21,8 @@ imprimir(SOMA);
 
 Soma = 91
 
+Resposta: questao1.py
+
 Questão 2
 
 Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
@@ -30,6 +32,8 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 2 pertence à sequência de Fibonacci.
 9 não pertence à sequência de Fibonacci.
 20 não pertence à sequência de Fibonacci.
+
+Resposta: questao2.py
 
 Questão 3
 
@@ -47,6 +51,8 @@ e) 1, 1, 2, 3, 5, 8, 13
 
 f) 2,10, 12, 16, 17, 18, 19, 20
 
+Resposta: questao3.py
+
 Questão 4
 
 Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
@@ -63,9 +69,11 @@ A lâmpada que estiver apagada e ainda estiver fria corresponde ao interruptor q
 A lâmpada que estiver apagada, mas estiver quente, corresponde ao interruptor que eu liguei e permaneceu ligado por alguns minutos (segundo interruptor).
 Assim, consigo identificar qual interruptor controla cada lâmpada com apenas duas idas até a sala das lâmpadas.
 
+Resposta: questao4.py
+
 Questão 5
 
-Escreva um programa que inverta os caracteres de um string.
+Resposta: questao5.py
 
 
 
